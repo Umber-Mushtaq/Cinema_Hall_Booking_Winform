@@ -1,0 +1,46 @@
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\bin\Debug\CinemaHallBookingSystem.exe.config
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\bin\Debug\CinemaHallBookingSystem.exe
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\bin\Debug\CinemaHallBookingSystem.pdb
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.AssemblyReference.cache
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.SuggestedBindingRedirects.cache
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Properties.Resources.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.GenerateResource.cache
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.CoreCompileInputs.cache
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.exe
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.pdb
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\Interop.MediaPlayer.dll
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.ResolveComReference.cache
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Administrator.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.AdminManagement.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.RemoveMovie.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.SeatsPricing.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Updates.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.update_comming.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.update_Showing.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.PageMain.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.BrowseMovies.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Seats.resources
+D:\umber 6th semester\visual programming\ACTUAL PROJECT\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.purchase.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\bin\Debug\CinemaHallBookingSystem.exe.config
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\bin\Debug\CinemaHallBookingSystem.exe
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\bin\Debug\CinemaHallBookingSystem.pdb
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.AssemblyReference.cache
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.SuggestedBindingRedirects.cache
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\Interop.MediaPlayer.dll
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.ResolveComReference.cache
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Administrator.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.AdminManagement.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.BrowseMovies.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.PageMain.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Properties.Resources.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.purchase.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.RemoveMovie.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Seats.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.SeatsPricing.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.update_comming.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.update_Showing.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.Updates.resources
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.GenerateResource.cache
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.csproj.CoreCompileInputs.cache
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.exe
+D:\umber 6th semester\visual programming\Umber Mushtaq, Tooba Ali, Mubarrah Rashid (20, 47, 40)\CinemaHallBookingSystem\CinemaHallBookingSystem\obj\Debug\CinemaHallBookingSystem.pdb
